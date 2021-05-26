@@ -1,4 +1,4 @@
-n = 300
+n = 400
 odd_pos = []
 even_pos= []
 pos_d = []
